@@ -1,0 +1,13 @@
+package estructuras;
+import java.util.Scanner;
+public class Factura {
+
+	public Factura() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner entrada = new Scanner(System.in);
+	}
+}

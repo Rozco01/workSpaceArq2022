@@ -1,0 +1,14 @@
+package estructuras;
+
+public class Geometricas {
+
+	public Geometricas() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
